@@ -1,2 +1,2 @@
 # template-restyaboard
-Restyaboard example configuration for Platform.sh.
+Restyaboard configuration for Platform.sh.
